@@ -1,4 +1,4 @@
-# Caclculator
+# Calculator
 
 Example using SwiftUI create a calculator
 
